@@ -4,7 +4,6 @@
 
 <img src="img/pydantic.png" width="77%"/>
 
----
 
 A hands-on tutorial for Pydantic — the most widely used data validation library for Python.
 
@@ -99,7 +98,7 @@ patient = Patient(
 > - Just want a quick refresher? Check it out here: [basics.ipynb](https://github.com/kameshcodes/pydantic-tutorial/blob/main/basics.ipynb)
 > - New to this? Open it in Colab and play around as you learn: https://colab.research.google.com/github/kameshcodes/pydantic-tutorial/blob/main/basics.ipynb
 
----
+
 
 ## Prerequisites
 
