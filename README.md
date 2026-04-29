@@ -5,9 +5,11 @@
 <img src="img/pydantic.png" width="77%"/>
 
 <br> 
+<br> 
 
 A hands-on tutorial for Pydantic — the most widely used data validation library for Python.
 
+<br> 
 <br> 
 
 ## What you will learn
@@ -26,7 +28,8 @@ A hands-on tutorial for Pydantic — the most widely used data validation librar
 - Nested models — using one model as a field inside another
 - Serialization — converting models to `dict` and JSON with `model_dump()`
 
----
+<br> 
+<br> 
 
 ## Test Your Understanding
 
