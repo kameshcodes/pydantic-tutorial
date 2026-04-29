@@ -95,7 +95,9 @@ patient = Patient(
 )
 ```
 
-> Not sure about something? The notebook covers it — open [basics.ipynb](https://github.com/kameshcodes/pydantic-tutorial/blob/main/basics.ipynb) and follow along.
+> Not sure about something in the code above? The notebook has you covered:
+> - Just want a quick refresher? Check it out here: [basics.ipynb](https://github.com/kameshcodes/pydantic-tutorial/blob/main/basics.ipynb)
+> - New to this? Open it in Colab and play around as you learn: https://colab.research.google.com/github/kameshcodes/pydantic-tutorial/blob/main/basics.ipynb
 
 ---
 
